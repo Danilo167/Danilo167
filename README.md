@@ -10,8 +10,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal4UMzHaI/giphy.gif" width="300" style="display: inline-block; margin-right: 10px;">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" style="display: inline-block; margin-left: 10px;">
+  <img src="LINK_DO_GIF_TUBO_DE_ENSAIO" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="LINK_DO_GIF_PROGRAMACAO" width="300" style="display: inline-block; margin-left: 10px;">
 </p>
 
 <p style="color: gray;">
