@@ -9,8 +9,10 @@
   🎓 UFPB 💻 e UNICSUL 🧪, minha paixão!
 </h2>
 
+
 <p align="right">
-  <img src="https://giphy.com/gifs/harvardmed-medicine-cells-stem-13RI4Jrt6AApmE" width="1000" alt="Meu Gif Animado">
+ <p align="center">
+  <img src="https://media.giphy.com/media/13RI4Jrt6AApmE/giphy.gif" width="500" alt="GIF animado">
 </p>
 
   <img src="https://giphy.com/gifs/harvardmed-medicine-cells-stem-13RI4Jrt6AApmE" width="100" style="display: inline-block; margin-right: 10px;">
