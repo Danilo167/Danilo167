@@ -10,7 +10,7 @@
 </h2>
 
 <p align="right">
-<img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Meu Gif Animado">
+<img src="assets/tubo_ensaio.gif">
 </p>
 
   <img src="assets/tubo_ensaio.gif" width="100" style="display: inline-block; margin-right: 10px;">
