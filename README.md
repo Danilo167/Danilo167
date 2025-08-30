@@ -9,6 +9,6 @@
 </h3>
 
 <p align="center" style="color: gray;">
-  💻 Tecnologia e programação | 🌱 Curioso por ciência e inovação <br>
+  💻 Tecnologia e programação | 🌱 Curioso por ciência, saúde e inovação <br>
   📚 Sempre aprendendo e compartilhando conhecimento
 </p>
