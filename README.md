@@ -9,16 +9,6 @@
   🎓 UFPB 💻 e UNICSUL 🧪, minha paixão!
 </h2>
 
-
-<p align="right">
- <p align="center">
-  <img src="https://media.giphy.com/media/13RI4Jrt6AApmE/giphy.gif" width="500" alt="GIF animado">
-</p>
-
-  <img src="https://giphy.com/gifs/harvardmed-medicine-cells-stem-13RI4Jrt6AApmE" width="100" style="display: inline-block; margin-right: 10px;">
-  <img src="assets/programacao.gif" width="100" style="display: inline-block; margin-left: 10px;">
-</p>
-
 <p style="color: gray;">
   💻 Tecnologia e programação | 🌱 Curioso por ciência, saúde e inovação. <br>
 
