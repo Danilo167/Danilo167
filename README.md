@@ -8,7 +8,7 @@
   🎓 UFPB 💻 e UNICSUL 🩺, minha paixão!
 </h3>
 
-<p align="center" style="color: gray;">
+<p style="color: gray;">
   💻 Tecnologia e programação | 🌱 Curioso por ciência, saúde e inovação <br>
   📚 O aprendizado é contínuo e a evolução constante.
 A mudança é natural e a reinvenção permanente.
