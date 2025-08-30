@@ -9,6 +9,12 @@
   🎓 UFPB 💻 e UNICSUL 🩺, minha paixão!
 </h3>
 
+<p align="center">
+  <img src="https://share.google/images/kaAR7smIvVJ1WCDR5" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="URL_DO_GIF2" width="300" style="display: inline-block; margin-left: 10px;">
+</p>
+
+
 <p style="color: gray;">
   💻 Tecnologia e programação | 🌱 Curioso por ciência, saúde e inovação. <br>
 
