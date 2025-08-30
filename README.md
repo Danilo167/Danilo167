@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center" style="color: darkblue;">Ⓓⓐⓝⓘⓛⓞ Ⓢⓒⓗⓔⓘⓓⓣ</h2>
-***
+
 
 <h3 align="center" style="color: darkgreen;">
   🎓 UFPB 💻 e UNICSUL 🩺, minha paixão!
