@@ -25,7 +25,7 @@ A mudança é natural e a reinvenção permanente.
 | Mutável        | 0.7            | Ainda apenas tentando                |
 | Conhecimento   | 3            | Tenho muito a aprender               |
 | Comunicação    | 1            | Expressividade bem abaixo do normal  |
-| Resiliência    | 6            | Ainda não sou bom                    |
+| Resiliência    | 6.1            | Ainda não sou bom                    |
 | Criatividade   | 4            | Ideias com pouca clareza             |
 
 
