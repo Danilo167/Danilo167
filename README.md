@@ -22,7 +22,7 @@ A mudança é natural e a reinvenção permanente.
 
 | Meus aspectos  | Nível | Observação                           |
 |----------------|--------------|--------------------------------------|
-| Mutável        | 1            | Ainda apenas tentando                |
+| Mutável        | 1.0            | Ainda apenas tentando                |
 | Conhecimento   | 3.0            | Tenho muito a aprender               |
 | Comunicação    | 1.2            | Expressividade bem abaixo do normal  |
 | Resiliência    | 6.2            | Ainda não sou bom                    |
