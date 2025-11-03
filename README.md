@@ -58,9 +58,13 @@ A mudança é natural e a reinvenção permanente.
 
   <details>
     <summary><b><samp> ◤"𝐂𝐫𝐢𝐚𝐫"◥ </samp></b></summary> 
+    
   ---
+  
   (https://shields.io/)[♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥]
+  
   ---
+  
 <p align="left">
   <img src="https://media.tenor.com/LLGNUz7m0IAAAAAM/scratching-my-face-taro-sakamoto.gif" width="159" alt="Erro 418! ☕️ \(-_-)/ ☕️">
 </p>
