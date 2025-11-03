@@ -27,7 +27,7 @@ A mudança é natural e a reinvenção permanente.
 
 <!-- Markdown >>>> Simples e rápido, mas não é melhor do que o HTML 😒 >>>> Shields.io -->
 
-<div style="display: flex; gap: 50px;">
+<div style="display: flex; gap: px;">
   <div>
 
 <h2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;💻 Linguagens</h2>
