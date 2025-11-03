@@ -27,7 +27,7 @@ A mudança é natural e a reinvenção permanente.
 
 <!-- Markdown >>>> Simples e rápido, mas não é melhor do que o HTML 😒 >>>> Shields.io -->
 
-<div style="display: flex; gap: px;">
+<div style="display: flex; gap: 25px;">
   <div>
 
 <h2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;💻 Linguagens</h2>
@@ -57,13 +57,12 @@ A mudança é natural e a reinvenção permanente.
 </div>
 
   <details>
-    <summary><b><samp> ◤"𝐂𝐫𝐢𝐚𝐫"◥ </samp></b></summary>
+    <summary><b><samp> ◤"𝐂𝐫𝐢𝐚𝐫"◥ </samp></b></summary> [♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥](https://shields.io/)
+  
 
- [♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥](https://shields.io/) 
-
-
+<p align="left">
   <img src="https://media.tenor.com/LLGNUz7m0IAAAAAM/scratching-my-face-taro-sakamoto.gif" width="159" alt="Erro 418! ☕️ \(-_-)/ ☕️">
-
+</p>
 
 
   </details>
