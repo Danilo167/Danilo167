@@ -62,9 +62,7 @@ A mudança é natural e a reinvenção permanente.
   ---
   
   <center>
-
-  (https://shields.io/)[♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥]
-
+    (https://shields.io/)[♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥]
 </center>  
   
   ---
