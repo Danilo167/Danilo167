@@ -60,10 +60,9 @@ A mudança é natural e a reinvenção permanente.
     <summary><b><samp> ◤"𝐂𝐫𝐢𝐚𝐫"◥ </samp></b></summary> 
     
   ---
+  <!-- Desisto! não sei mais como resolver kkkk -->
   
-  <center>
-   [♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥] (https://shields.io/)
-</center>  
+[♥ﮩ٨ـﮩﮩ٨ـﮩﮩ Shields.io ﮩﮩـ٨ﮩﮩـ٨ﮩ♥](https://shields.io/)
   
   ---
   
