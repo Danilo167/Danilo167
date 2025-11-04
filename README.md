@@ -1,4 +1,5 @@
 <!-- Versátil, bem estruturado e extremamente funcional 😉>>>> HTML -->
+---
 
 <p align="center">
   <img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Erro 418! ☕️ \(-_-)/ ☕️">
@@ -70,6 +71,7 @@ A mudança é natural e a reinvenção permanente.
   <img src="https://media.tenor.com/LLGNUz7m0IAAAAAM/scratching-my-face-taro-sakamoto.gif" width="159" alt="Erro 418! ☕️ \(-_-)/ ☕️">
 </p>
 
+---
 
   </details>
 
