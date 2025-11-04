@@ -31,7 +31,7 @@ A mudança é natural e a reinvenção permanente.
 <div style="display: flex; gap: 25px;">
   <div>
 
-<h2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;💻 Linguagens</h2>
+<h2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 💻 Linguagens</h2>
     <table>
       <tr><th>Linguagem</th><th>Nível</th></tr>
       <tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td><td>⭐⭐⭐⭐☆</td></tr>
@@ -43,7 +43,7 @@ A mudança é natural e a reinvenção permanente.
   </div>
 
   <div>
-<h2>&nbsp;&nbsp;&nbsp; &nbsp;🧰 Ferramentas</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧰 Ferramentas</h2>
     <table>
       <tr><th>Linguagem</th><th>Nível</th></tr>
       <tr><td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td><td>⭐⭐⭐⭐☆</td></tr>
