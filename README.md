@@ -19,6 +19,8 @@
 
 ![UFPB](https://img.shields.io/badge/UFPB-E74C3C?style=for-the-badge&logo=google-scholar&logoColor=white) ![Cruzeiro do Sul Virtual](https://img.shields.io/badge/Cruzeiro%20do%20Sul-Virtual-007ACC?style=for-the-badge&logo=university&logoColor=white)
 
+&nbsp;&nbsp;
+
 </h2>
 
 <p style="color: gray;">
