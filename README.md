@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Erro 418! ☕️ \(-_-)/ ☕️">
 </p>
 
-<h2 align="center" style="color: darkblue;">Ⓓⓐⓝⓘⓛⓞ Ⓢⓒⓗⓔⓘⓓⓣ 𝓓𝓪𝓷𝓲𝓵𝓸 𝓢𝓬𝓱𝓮𝓲𝓭𝓽</h2>
+<h2 align="center" style="color: darkblue;">𝓓𝓪𝓷𝓲𝓵𝓸 𝓢𝓬𝓱𝓮𝓲𝓭𝓽</h2>
 
 <details>
   <summary><b><samp>「 𝐒𝐚𝐛𝐞𝐫 𝐌𝐚𝐢𝐬 」</samp></b></summary>
