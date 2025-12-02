@@ -47,7 +47,7 @@ A mudança é natural e a reinvenção permanente.
   <div>
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧰 Ferramentas</h2>
     <table>
-      <tr><th>Linguagem</th><th>Nível</th></tr>
+      <tr><th>Ferramentas</th><th>Nível</th></tr>
       <tr><td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td><td>⭐⭐⭐⭐☆</td></tr>
       <tr><td><img src="https://img.shields.io/badge/IntelliJ%20IDEA-7B61FF?style=for-the-badge&logo=intellij-idea&logoColor=white"></td><td>⭐⭐⭐⭐☆</td></tr>
       <tr><td><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td><td>⭐⭐⭐⭐☆</td></tr>
