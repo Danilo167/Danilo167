@@ -1,16 +1,15 @@
 <!-- Versátil, bem estruturado e extremamente funcional 😉>>>> HTML -->
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Erro 418! ☕️ \(-_-)/ ☕️">
+</p>
+
 <h1 align="center">
   <a href="007BFF">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=550&lines=Oiê,+eu+me+chamo+Danilo+Scheidt;Sou+estudante+de+SI+e+Farm+🙏🏼;" alt="Olá 🙃">
   </a>
 </h1>
-<p align="center">
-  <img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Erro 418! ☕️ \(-_-)/ ☕️">
-</p>
-
-<h3 align="center" style="color: darkblue;">𝐃𝐚𝐧𝐢𝐥𝐨 𝐒𝐜𝐡𝐞𝐢𝐝𝐭</h3>
 
 <details>
   <summary><b><samp>「 𝐒𝐚𝐛𝐞𝐫 𝐌𝐚𝐢𝐬 」</samp></b></summary>
