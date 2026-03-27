@@ -1,6 +1,12 @@
 <!-- Versátil, bem estruturado e extremamente funcional 😉>>>> HTML -->
 ---
 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Oiê,+eu+me+chamo+Danilo;Sou+estudante+de+SI+e+Farm;" alt="Olá 🙃">
+  </a>
+</h1>
+
 <p align="center">
   <img src="https://media.tenor.com/nTUpRvbQ_eIAAAAM/tower-of-god-kami-no-tou.gif" width="1000" alt="Erro 418! ☕️ \(-_-)/ ☕️">
 </p>
