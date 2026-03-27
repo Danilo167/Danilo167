@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <a href="007BFF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=9000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=𝙳𝚊𝚗𝚒𝚕𝚘+𝚂𝚌𝚑𝚎𝚒𝚍𝚝;♥ﮩ٨ـﮩﮩ٨ـﮩﮩﮩﮩـ٨ﮩﮩـ٨ﮩ♥" alt="Olá 🙃">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=9000&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=𝙳𝚊𝚗𝚒𝚕𝚘+𝚂𝚌𝚑𝚎𝚒𝚍𝚝;♥ﮩ٨ـﮩﮩ٨ـﮩﮩﮩـ٨ﮩﮩـ٨ﮩ♥" alt="Olá 🙃">
   </a>
 </h1>
 
