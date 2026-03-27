@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">
-  <a href="">
+  <a href="007BFF">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Oiê,+eu+me+chamo+Danilo;Sou+estudante+de+SI+e+Farm;" alt="Olá 🙃">
   </a>
 </h1>
