@@ -25,7 +25,7 @@
   
 </p>
 
-<h3>Linguagens e Tecnologias</h3>
+<h3>Tech Stack</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
