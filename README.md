@@ -11,18 +11,14 @@
   </a>
 </h1>
 
-
 <details>
   <summary><b><samp>「 𝐒𝐚𝐛𝐞𝐫 𝐌𝐚𝐢𝐬 」</samp></b></summary>
 
   <br>
 
 <p style="text-align: justify;">
-
   Me chamo Danilo Scheidt Caxias do Rêgo, tenho 22 anos e sou natural de Rio Tinto. Concluí o ensino médio na ECIT MME, com o curso técnico em Agronegócio. Ademais, pelo Mediotec, fiz o curso técnico em Administração. Atualmente, estou cursando Sistemas de Informação na UFPB e estou prestes a me formar em Farmácia pela Cruzeiro do Sul Virtual. Sou extraordinariamente apaixonado por tecnologia, programação, ciência e saúde. Posso ser meio estranho às vezes, mas esse é o meu jeito de ser e evoluir.
-  
   &nbsp;&nbsp;&nbsp;
-  
 </p>
 
 <h3>Tech Stack</h3>
