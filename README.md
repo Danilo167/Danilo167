@@ -17,20 +17,14 @@
 
   <br>
 
-<h2 align="center">
-  🎓 UFPB 💻 e UNICSUL 🧪, minha paixão! 
+<p style="text-align: justify;">
 
+  Me chamo Danilo Scheidt Caxias do Rêgo, tenho 22 anos e sou natural de Rio Tinto. Concluí o ensino médio na ECIT MME, com o curso técnico em Agronegócio. Ademais, pelo Mediotec, fiz o curso técnico em Administração. Atualmente, estou cursando Sistemas de Informação na UFPB e estou prestes a me formar em Farmácia pela Cruzeiro do Sul Virtual. Sou extraordinariamente apaixonado por tecnologia, programação, ciência e saúde. Posso ser meio estranho às vezes, mas esse é o meu jeito de ser e evoluir.
+  
   &nbsp;&nbsp;&nbsp;
   
 ![UFPB](https://img.shields.io/badge/UFPB-E74C3C?style=for-the-badge&logo=google-scholar&logoColor=white) ![Cruzeiro do Sul Virtual](https://img.shields.io/badge/Cruzeiro%20do%20Sul-Virtual-007ACC?style=for-the-badge&logo=university&logoColor=white)
 
-</h2>
-
-<p style="color: gray;">
-  💻 Tecnologia e programação | 🌱 Curioso por ciência, saúde e inovação. <br>
-
-📚 O aprendizado é contínuo e a evolução constante.
-A mudança é natural e a reinvenção permanente.
 </p>
 
 <!-- Markdown >>>> Simples e rápido, mas não é melhor do que o HTML 😒 >>>> Shields.io -->
