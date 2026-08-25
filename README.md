@@ -63,6 +63,13 @@
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
 </p>
 
+<h3>Statistics</h3>
+
+<p align="center">
+  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo167&show_icons=true&theme=dark" />
+  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danilo167&layout=compact&theme=dark" />
+</p>
+
 </details>
 
 ----
