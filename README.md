@@ -1,4 +1,3 @@
-<!-- Versátil, bem estruturado e extremamente funcional 😉>>>> HTML -->
 ---
 
 <p align="center">
@@ -65,3 +64,5 @@
 </p>
 
 </details>
+
+----
