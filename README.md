@@ -59,6 +59,12 @@
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
 </p>
 
+<h3>Featured Projects</h3>
+
+---
+---
+---
+
 <h3>Statistics</h3>
 
 <p align="center">
