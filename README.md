@@ -61,17 +61,32 @@
 
 <h3>Featured Projects</h3>
 
-<blockquote>
-<a href="https://danilo167.github.io/Plataforma-Kynoa/">Plataforma-Kynoa</a></sub>
-<p>Sistema de organização de estudos para estudantes neurodivergentes, criado e customizado com suporte de IA.</p>
-</blockquote>
-
-<h3>Statistics</h3>
-
-<p align="center">
-  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo167&show_icons=true&theme=dark" />
-  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danilo167&layout=compact&theme=dark" />
-</p>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <a href="https://danilo167.github.io/Plataforma-Kynoa/">Plataforma Kynoa</a>
+    </th>
+  </tr>
+  <tr>
+    <td width="25%"><b>Descrição</b></td>
+    <td>Sistema de organização de estudos para estudantes neurodivergentes, criado e customizado com suporte de IA.</td>
+  </tr>
+  <tr>
+    <td><b>Minha Atuação</b></td>
+    <td>Suporte na concepção de UX (BMC, Mapas e Protótipo), criação com IA e customização da interface.</td>
+  </tr>
+  <tr>
+    <td><b>Links</b></td>
+    <td>
+      <a href="https://github.com/Danilo167/Plataforma-Kynoa">GitHub</a> | 
+      <a href="https://miro.com/app/board/uXjVG5_Mc44=/?share_link_id=157667338247">Miro</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tecnologias</b></td>
+    <td><code>HTML5</code> &nbsp; <code>GitHub Pages</code></td>
+  </tr>
+</table>
 
 </details>
 
