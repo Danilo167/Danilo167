@@ -62,6 +62,7 @@
 <h3>Featured Projects</h3>
 
 ---
+<sub style="font-size: 12px;"><a href="https://github.com/Danilo167/Plataforma-Kynoa">Plataforma-Kynoa</a></sub>
 ---
 ---
 
