@@ -61,8 +61,11 @@
 
 <h3>Featured Projects</h3>
 
+<blockquote>
 <a href="https://danilo167.github.io/Plataforma-Kynoa/">Plataforma-Kynoa</a></sub>
 <p>Sistema de organização de estudos para estudantes neurodivergentes, criado e customizado com suporte de IA.</p>
+</blockquote>
+
 <h3>Statistics</h3>
 
 <p align="center">
