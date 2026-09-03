@@ -19,7 +19,7 @@
 <h3>Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,clojure,js,html,css,mysql,markdown,figma,notion,git,github,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,cpp,cs,clojure,vscode,pycharm,idea,eclipse,mysql,postgres,windows,linux,git,github,figma,notion" />
 </p>
 
 <h3>Featured Projects</h3>
