@@ -54,7 +54,7 @@
 <table width="100%">
   <tr>
     <th colspan="2" align="left">
-      <a href="https://www.figma.com/make/5e9TEd7QnvlB0GDgrHo6iw/Kanban-Web-Prototype?t=GeFeET3HHlLSbnTc6">Kanban Web</a>
+      <a href="https://app.notion.com/p/Projeto-de-Modelagem-de-Dados-KANBAN-WEB-2ccb9720063681609910d0cee57f8e32?source=copy_link">Kanban Web</a>
     </th>
   </tr>
   <tr>
