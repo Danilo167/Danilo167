@@ -69,7 +69,7 @@
     <td><b>Links</b></td>
     <td>
       <a href="https://www.figma.com/make/5e9TEd7QnvlB0GDgrHo6iw/Kanban-Web-Prototype?t=GeFeET3HHlLSbnTc6">Figma</a> |
-      <a href="https://drive.google.com/file/d/1CrBOWVIiYGoS1qrq4D2LVwQjmppbJpDE/view?usp=drive_link">Diagrama de Caso de Uso</a> |
+      <a href="https://drive.google.com/drive/folders/1haGnqzyGlrLFJgsJoUTPwFWm0Ik6ypte">Diagrama de Caso de Uso</a> |
       <a href="https://docs.google.com/document/d/1wqzYN3ICnmIzBN5X6UfwjQHrEW_wPTGZ4rsjeNvSn4E/edit?usp=drivesdk">Requisitos</a> |
       <a href="https://docs.google.com/document/d/1z55xRfKPGx2SMxx23lhp5EQSaMoqIGYSgepbKsv4HhM/edit?usp=drivesdk">Backlog</a>
     </td>
