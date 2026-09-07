@@ -69,14 +69,14 @@
     <td><b>Links</b></td>
     <td>
       <a href="https://www.figma.com/make/5e9TEd7QnvlB0GDgrHo6iw/Kanban-Web-Prototype?t=GeFeET3HHlLSbnTc6">Figma</a> |
-      <a href="https://docs.google.com/document/d/1X0VL3IoPypyWNaB4s5amHAwn8jvGpeTOc6AiAGwEWQ/edit?usp=drivesdk">Casos de Uso</a> |
+      <a href="https://app.notion.com/p/Projeto-de-Modelagem-de-Dados-KANBAN-WEB-2ccb9720063681609910d0cee57f8e32?source=copy_link">Diagrama de Caso de Uso</a> |
       <a href="https://docs.google.com/document/d/1wqzYN3ICnmIzBN5X6UfwjQHrEW_wPTGZ4rsjeNvSn4E/edit?usp=drivesdk">Requisitos</a> |
       <a href="https://docs.google.com/document/d/1z55xRfKPGx2SMxx23lhp5EQSaMoqIGYSgepbKsv4HhM/edit?usp=drivesdk">Backlog</a>
     </td>
   </tr>
   <tr>
     <td><b>Tecnologias</b></td>
-    <td><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Figma</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code></td>
+    <td><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>Notion</code> &nbsp; <code>Figma</code> &nbsp; <code>Draw.io</code></td>
   </tr>
 </table>
 
