@@ -51,6 +51,35 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <a href="https://www.figma.com/make/5e9TEd7QnvlB0GDgrHo6iw/Kanban-Web-Prototype?t=GeFeET3HHlLSbnTc6">Kanban Web</a>
+    </th>
+  </tr>
+  <tr>
+    <td width="25%"><b>Descrição</b></td>
+    <td>Sistema web de gerenciamento de tarefas baseado no modelo Kanban, utilizando as etapas Começar, Fazendo e Concluído para facilitar a organização da rotina de forma prática e intuitiva.</td>
+  </tr>
+  <tr>
+    <td><b>Minha Atuação</b></td>
+    <td>Desenvolvimento e implementação da interface do sistema, contribuindo na construção das funcionalidades, organização visual e experiência de uso da aplicação.</td>
+  </tr>
+  <tr>
+    <td><b>Links</b></td>
+    <td>
+      <a href="https://www.figma.com/make/5e9TEd7QnvlB0GDgrHo6iw/Kanban-Web-Prototype?t=GeFeET3HHlLSbnTc6">Figma</a> |
+      <a href="https://docs.google.com/document/d/1X0VL3IoPypyWNaB4s5amHAwn8jvGpeTOc6AiAGwEWQ/edit?usp=drivesdk">Casos de Uso</a> |
+      <a href="https://docs.google.com/document/d/1wqzYN3ICnmIzBN5X6UfwjQHrEW_wPTGZ4rsjeNvSn4E/edit?usp=drivesdk">Requisitos</a> |
+      <a href="https://docs.google.com/document/d/1z55xRfKPGx2SMxx23lhp5EQSaMoqIGYSgepbKsv4HhM/edit?usp=drivesdk">Backlog</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tecnologias</b></td>
+    <td><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Figma</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code></td>
+  </tr>
+</table>
+
 </details>
 
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
