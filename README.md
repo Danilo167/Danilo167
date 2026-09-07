@@ -80,6 +80,32 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <a href="https://github.com/whlcoding/GRUPO_ESA_linha_segura">App Linha Segura</a>
+    </th>
+  </tr>
+  <tr>
+    <td width="25%"><b>Descrição</b></td>
+    <td>Aplicativo móvel desenvolvido para prevenção e combate ao assédio, com suporte rápido e recursos de emergência.</td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Minha Atuação</b></td>
+    <td>Execução de testes do aplicativo, suporte no desenvolvimento da interface de usuário e auxílio na integração de APIs no projeto mobile.</td>
+  </tr>
+  <tr>
+    <td><b>Links</b></td>
+    <td>
+      <a href="https://github.com/whlcoding/GRUPO_ESA_linha_segura">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tecnologias</b></td>
+    <td><code>Kodular</code> &nbsp; <code>Figma</code> &nbsp; <code>TypeScript</code> &nbsp; <code>JavaScript</code></td>
+  </tr>
+</table>
+
 </details>
 
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
