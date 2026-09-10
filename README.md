@@ -106,6 +106,13 @@
   </tr>
 </table>
 
+<h3>Statistics</h3>
+
+<p align="center">
+  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo167&show_icons=true&theme=dark" />
+  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danilo167&layout=compact&theme=dark" />
+</p>
+
 </details>
 
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
