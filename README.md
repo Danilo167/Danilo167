@@ -24,7 +24,7 @@
 
 <h3>Featured Projects</h3>
 
-<table width="100%">
+<table width="200%">
   <tr>
     <th colspan="2" align="left">
       <a href="https://danilo167.github.io/Plataforma-Kynoa/">Plataforma Kynoa</a>
