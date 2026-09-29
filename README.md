@@ -13,7 +13,7 @@
 
 <h1 align="center">
   <a href="007BFF">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=9000&pause=900&color=8E6EC1&center=true&vCenter=true&width=550&lines=Danilo+Scheidt;♥ﮩ٨ـﮩﮩ٨ـﮩﮩﮩـ٨ﮩﮩـ٨ﮩ♥" alt="Amém 🙏🏼"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=9000&pause=900&color=8E6EC1&center=true&vCenter=true&width=550&lines=𝓓𝓪𝓷𝓲𝓵𝓸+𝓢𝓬𝓱𝓮𝓲𝓭𝓽;♥ﮩ٨ـﮩﮩ٨ـﮩﮩﮩـ٨ﮩﮩـ٨ﮩ♥" alt="Amém 🙏🏼"> 
   </a>
 </h1>
 
