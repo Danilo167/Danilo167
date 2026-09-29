@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <a href="007BFF">
-    <img src="assets/foto_ascii.svg" width="800">
-      </a>
+    <img src="assets/foto_loading.gif" width="800">
+  </a>
 </h1>
 
 <p style="text-align: justify;">
