@@ -1,5 +1,11 @@
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4C1D95,50:6D28D9,100:8B5CF6&section=header"/>
 
+<h1 align="center">
+  <a href="007BFF">
+    <img src="assets/foto_ascii.svg" width="800">
+      </a>
+</h1>
+
 <p style="text-align: justify;">
   Olá! me chamo Danilo Scheidt Caxias do Rêgo, tenho 22 anos e sou natural de Rio Tinto. Concluí o ensino médio na ECIT MME, com o curso técnico em Agronegócio. Ademais, pelo Mediotec, fiz o curso técnico em Administração. Atualmente, estou cursando Sistemas de Informação na UFPB e estou prestes a me formar em Farmácia pela Cruzeiro do Sul Virtual. Sou extraordinariamente apaixonado por tecnologia, programação, ciência e saúde.
   &nbsp;&nbsp;&nbsp;
@@ -7,7 +13,6 @@
 
 <h1 align="center">
   <a href="007BFF">
-    <img src="assets/foto_ascii.svg" width="300">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=9000&pause=900&color=8E6EC1&center=true&vCenter=true&width=550&lines=Danilo+Scheidt;♥ﮩ٨ـﮩﮩ٨ـﮩﮩﮩـ٨ﮩﮩـ٨ﮩ♥" alt="Amém 🙏🏼"> 
   </a>
 </h1>
