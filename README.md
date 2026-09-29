@@ -1,4 +1,4 @@
-<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4C1D95,50:6D28D9,100:8B5CF6&section=header"/>
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4C1D95,200:6D28D9,100:8B5CF6&section=header"/>
 
 <h1 align="center">
   <a href="007BFF">
@@ -121,4 +121,4 @@
 
 </details>
 
-<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4C1D95,200:6D28D9,100:8B5CF6"/>
