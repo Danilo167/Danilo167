@@ -1,0 +1,126 @@
+name: 🐱 Update Cat GIF
+
+on:
+  # Roda automaticamente a cada 6 horas
+  schedule:
+    - cron: '0 */6 * * *'
+
+  # Roda sempre que um push é feito no main
+  push:
+    branches: [main]
+
+  # Permite rodar manualmente pelo painel do GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write   # necessário para fazer commit do GIF atualizado
+
+jobs:
+  update-cat-gif:
+    name: Regenerate Cat GIF with Real Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout do repositório ──────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Configurar Python ─────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # ── 3. Instalar dependências ─────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install Pillow requests
+
+      # ── 4. Buscar estatísticas reais da API do GitHub ───────────────────────
+      - name: Fetch GitHub Stats
+        id: stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Danilo167
+        run: |
+          python3 - <<'PYEOF'
+          import os, requests, json
+
+          token    = os.environ["GITHUB_TOKEN"]
+          username = os.environ["USERNAME"]
+          headers  = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
+          base     = "https://api.github.com"
+
+          # ── Repositórios públicos ────────────────────────────────────────────
+          repos_data = []
+          page = 1
+          while True:
+              r = requests.get(f"{base}/users/{username}/repos?per_page=100&page={page}", headers=headers)
+              data = r.json()
+              if not data:
+                  break
+              repos_data.extend(data)
+              page += 1
+
+          total_repos = len(repos_data)
+          total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
+
+          # ── Pull Requests abertos + fechados (criados pelo usuário) ──────────
+          prs_open   = requests.get(f"{base}/search/issues?q=author:{username}+type:pr+state:open&per_page=1",   headers=headers).json()
+          prs_closed = requests.get(f"{base}/search/issues?q=author:{username}+type:pr+state:closed&per_page=1", headers=headers).json()
+          total_prs  = prs_open.get("total_count", 0) + prs_closed.get("total_count", 0)
+
+          # ── Commits via GraphQL (mais preciso) ───────────────────────────────
+          query = """
+          {
+            user(login: "%s") {
+              contributionsCollection {
+                totalCommitContributions
+                restrictedContributionsCount
+              }
+            }
+          }
+          """ % username
+
+          gql_r = requests.post(
+              "https://api.github.com/graphql",
+              headers={**headers, "Content-Type": "application/json"},
+              json={"query": query}
+          )
+          gql_data = gql_r.json()
+          cc = gql_data.get("data", {}).get("user", {}).get("contributionsCollection", {})
+          total_commits = cc.get("totalCommitContributions", 0) + cc.get("restrictedContributionsCount", 0)
+
+          # ── Escreve as variáveis de output para o Actions ────────────────────
+          env_file = os.environ.get("GITHUB_OUTPUT", "/dev/stdout")
+          with open(env_file, "a") as f:
+              f.write(f"commits={total_commits}\n")
+              f.write(f"prs={total_prs}\n")
+              f.write(f"repos={total_repos}\n")
+              f.write(f"stars={total_stars}\n")
+
+          print(f"📊 commits={total_commits} | prs={total_prs} | repos={total_repos} | stars={total_stars}")
+          PYEOF
+
+      # ── 5. Gerar o GIF com os dados reais ───────────────────────────────────
+      - name: Generate Cat GIF
+        run: |
+          python3 scripts/generate_cat_gif.py \
+            --commits ${{ steps.stats.outputs.commits }} \
+            --prs     ${{ steps.stats.outputs.prs }} \
+            --repos   ${{ steps.stats.outputs.repos }} \
+            --stars   ${{ steps.stats.outputs.stars }} \
+            --output  assets/cat_interactions.gif \
+            --frames  72
+
+      # ── 6. Commit e push do GIF atualizado ──────────────────────────────────
+      - name: Commit updated GIF
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/cat_interactions.gif
+          if git diff --cached --quiet; then
+            echo "✅ GIF não mudou, nenhum commit necessário."
+          else
+            git commit -m "chore(assets): 🐱 atualiza cat_interactions.gif com stats reais [skip ci]"
+            git push
+          fi
