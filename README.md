@@ -20,7 +20,8 @@ Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFP
 ◈ Academic Profile ◈
 </h2>
 
-`TECNOLOGIA` &nbsp;·&nbsp; `PROGRAMAÇÃO` &nbsp;·&nbsp; `CIÊNCIA` &nbsp;·&nbsp; `SAÚDE`
+
+`Tecnologia` &nbsp;·&nbsp; `Programação` &nbsp;·&nbsp; `Ciência` &nbsp;·&nbsp; `Saúde`
 
 </div>
 
