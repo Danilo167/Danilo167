@@ -14,8 +14,6 @@ Olá! Me chamo **Danilo Scheidt Caxias do Rêgo**, tenho 23 anos, sou natural de
 
 Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB) e em fase de conclusão do bacharelado em Farmácia pela Cruzeiro do Sul Virtual, busco sempre aprender, desenvolver novas habilidades e explorar diferentes áreas do conhecimento.
 
-<br>
-
 <div align="center">
   
 <h2 align="center">
@@ -42,8 +40,6 @@ Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFP
 > **Técnico em Agronegócio**  
 > <sub>ECIT MME</sub>
 
-<br>
-
 <div align="right">
   <samp>Academic Profile · 2026</samp>
 </div>
@@ -58,6 +54,25 @@ Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFP
 </p>
 
 <h3>Featured Projects</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4C1D95,200:6D28D9,100:8B5CF6" width="100%" />
+</p>
+
+### Plataforma Kynoa
+> *Organização de Estudos e Acessibilidade Neurodivergente*
+
+<p align="left">
+  <a href="https://danilo167.github.io/Plataforma-Kynoa/"><img src="https://img.shields.io/badge/Aplicação%20Online-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aplicação Online" /></a>
+  &nbsp;
+  <a href="https://github.com/Danilo167/Plataforma-Kynoa"><img src="https://img.shields.io/badge/Repositório%20GitHub-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
+  &nbsp;
+  <a href="https://miro.com/app/board/uXjVG5_Mc44=/?share_link_id=157667338247"><img src="https://img.shields.io/badge/Mapeamento%20Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" /></a>
+</p>
+
+* **Descrição:** Plataforma digital de apoio e organização de estudos voltada para pessoas neurodivergentes, combinando recursos cognitivos, estímulos visuais e suporte sonoro customizado para potencializar a concentração e a retenção do aprendizado.
+* **Minha Atuação:** Concepção da experiência do usuário (UX), definição de Business Model Canvas (BMC), mapeamento de fluxos, prototipagem, desenvolvimento assistido por IA e personalização de componentes de interface.
+* **Stack Tecnológica:** `HTML5` &bull; `CSS3` &bull; `JavaScript` &bull; `Web Audio API` &bull; `GitHub Pages`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4C1D95,200:6D28D9,100:8B5CF6" width="100%" />
